@@ -144,7 +144,6 @@ body {
     min-width: 200px;
     top: calc(100% + 20px);
     background-color: #F6F6F6;
-    display: none;
     z-index: 1;
 }
 
@@ -158,9 +157,9 @@ body {
     top: -20px;
 }
 
-.header .links:hover ul {
+/* .header .links:hover ul {
     display: block;
-}
+} */
 
 .header .links ul li a {
     text-decoration: none;
